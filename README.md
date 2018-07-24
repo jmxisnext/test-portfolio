@@ -1,2 +1,3 @@
-# test-portfolio
-This is my PRO test portfolio
+# James Martin's Portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
